@@ -1,0 +1,502 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Alpine PhotoTile for Instagram"
+msgstr ""
+
+#. Short description.
+msgid "Simple, stylish, and compact plugin for displaying Instagram photos in a sidebar, post, or page."
+msgstr ""
+
+#. Found in description list item.
+msgid "Display photos in a sidebar, post, or page"
+msgstr ""
+
+#. Found in description list item.
+msgid "Multiple styles to allow for customization"
+msgstr ""
+
+#. Found in description list item.
+msgid "Lighbox feature for interactive slideshow (Fancybox, prettyBox, or ColorBox)"
+msgstr ""
+
+#. Found in description list item.
+msgid "Simple instructions for adding users and customizing features"
+msgstr ""
+
+#. Found in description list item.
+msgid "Widget &amp; shortcode options"
+msgstr ""
+
+#. Found in description list item.
+msgid "Feed caching/storage for improved page loading"
+msgstr ""
+
+#. Found in description list item.
+msgid "After installing the Alpine PhotoTile plugin on your WordPress site, make sure it is activated by logging into your admin area and going to Plugins in the left menu."
+msgstr ""
+
+#. Found in description list item.
+msgid "Before using the plugin, you must authorize your WordPress website to access your Instagram account by adding a user. This can be done by going to <em>Settings-&gt;AlpineTile: Instagram-&gt;Add User</em> and following the directions on the page."
+msgstr ""
+
+#. Found in description list item.
+msgid "To add the plugin to a sidebar, go to <em>Appearance-&gt;Widgets</em> in the left menu."
+msgstr ""
+
+#. Found in description list item.
+msgid "Find the rectangle labeled Alpine PhotoTile. Click and drag the rectangle to one of the sidebar containers on the right."
+msgstr ""
+
+#. Found in description list item.
+msgid "Once you drop the rectangle in a sidebar area, it should open to reveal a menu of options. The only required information for the plugin to work is a Username. Select an available ID and click save in the right bottom corner of the menu."
+msgstr ""
+
+#. Found in description list item.
+msgid "Open another page/window in your web browser and navigate to your WordPress site to see how the sidebar looks with the Alpine PhotoTile included."
+msgstr ""
+
+#. Found in description list item.
+msgid "Play around with the various styles and options to find what works best for your site."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Please Note: This plugin is no longer being developed or maintained. If you are a WordPress developer, I encourage you to take this plugin and make it your own.</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Alpine PhotoTile for Instagram Features:</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Quick Start Guide:</strong>"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the <em>Plugins-&gt;Add New</em> section of the Admin Panel."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Either search for \"Alpine PhotoTile for Instagram\" or upload the <code>alpine-photo-tile-for-instagram</code> folder using the upload tool."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Go to the <em>Plugins-&gt;Installed Plugins</em> and activate the plugin."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Instagram is quite protective of its users. Before your WordPress website can retrieve images from Instagram, you must authorize your WordPress site to access your Instagram account. On the <em>Plugins-&gt;Installed Plugins</em> page, click on \"Add User\" under \"Alpine PhotoTile for Instagram\". You will be directed to one of the Instagram plugin's \"Add Instagram User\" page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Follow the directions on the \"Add User\" page to add and save a user to the plugin. I have included the directions here for reference:"
+msgstr ""
+
+#. Found in installation list item.
+msgid "Before starting, go to <em>Instagram.com</em> and make sure you are logged into the account you wish to add. Once you are logged into Instagram, visit the <a href=\"http://instagram.com/developer/\" title=\"Instagram Developer\">Instagram Developer</a> page."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Once on the Instagram website, click on the \"Manage Clients\" link. If this is the first time you are adding an app or plugin, Instagram will ask you a few questions. Enter the answers, click \"Sign Up\", and then click \"Manage Clients\" again."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Register your WordPress site by click the \"Register a New Client\" button."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Fill in the \"Register new OAuth Client\" form with the infomation shown on the plugin's \"Add User\" page and click \"Register\":"
+msgstr ""
+
+#. Found in installation list item.
+msgid "The \"Instagram Developer\" page will shown a Client ID and Client Secret. Enter the Client ID and Client Secret into the form and click \"Add and Authorize New User\". You will then be directed to an Instagram page where you can finish the authorization. "
+msgstr ""
+
+#. Found in installation list item.
+msgid "Use the widget like any other widget. Go to <em>Appearance-&gt;Widgets</em> in the left menu. Find the rectangle labeled \"Alpine PhotoTile\". Click and drag the rectangle to one of the sidebar containers on the right."
+msgstr ""
+
+#. Found in installation list item.
+msgid "Customize Alpine PhotoTile plugin based on your preference."
+msgstr ""
+
+#. Found in installation list item.
+msgid "A shortcode is a line of texted used for loading plugins within WordPress pages or posts. Rather than explaining how to setup the shortcode, I have added a tool to the Alpine PhotoTile plugin that generates the shortcode for you. Visit the \"Shortcode Generator\" on the plugin's settings page (<em>Settings-&gt;AlpineTile: Instagram-&gt;Shortcode Generator</em>)."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Plugin Installation</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Add a User</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Using the Widget</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "<strong>Using the Shortcode</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rebuilt Alpine PhotoTile series to work with Instagram"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rebuilt plugin structure into OBJECT"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Combined all Alpine Photo Tiles scripts and styles into identical files"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved IE 7 compatibility"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added custom image link options"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added Fancybox jQuery option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed galleryHeight bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemented fetch with wp_remote_get()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rebuilt admin div structure"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed admin css issues"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added aspect ratio options for gallery style"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add key generator function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add get_image_url() functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Object oriented id, options, results, and output storage"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Object oriented display generation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add FancyboxForAlpine (Fancybox Safemode)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add choice between Fancybox, prettyBox, and ColorBox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add hidden options, including custom rel for lightbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed cache retrieval"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Removed several style options because all images are squares"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Restructured plugin objects and reassinged functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Object oriented message, hidden, etc."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added option to disable right-clicking on images"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added updateGlobalOptions and removed individual option calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added donate button"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed lightbox param option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added fallback to dynamic style and script loading using jQuery"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Various small fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Moved cache location"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated ColorBox plugin"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set Object params to private and implemeted set, check, and get function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Implemeted do_alpine_method call"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Created active options and results functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved dynamic script loading"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed jQuery bug (Removed all &lt;&gt; tags from inline scripts)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change json_decode from object to array return"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added json_decoder function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added additional error reporting"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed false \"feed successfully retrieved\" message"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added manual_cURL function and edited relevant admin and display functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add stripslashes text sanitization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Changed lightbox parameters option from CSS to stripslashes sanitization"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Filter out videos"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Block users"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check compatibility with WP 3.8"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small CSS changes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced deprecated jQuery APIs  ( .load() and .browser )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated prettyPhoto and colorbox"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change to option functions ( added isset() )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rewrote AddUser() function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Emoji filter to \"Add User\" page. Because feed is in JSON, filter must remove all unicode characters written as strings (\\u0000 to \\uffff)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reorganized \"Add User\" page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Emoji filter and &lt;, &gt;, &amp;, \" and ' encoding (esc_attr function) to photo titles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Added wp_strip_all_tags and strip_tags functions to titles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "jQuery backwards compatibility ( .bind() function for jQuery v1.6.3 and less )"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rewrote js functions"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add <!--//-->&lt;![CDATA[//&gt;&lt;!-- to JavaScript"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Reduced ReadMe"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add addEventListener and attachEvent calls to JS loading (for jQuery in footer)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add SSL option"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Replaced local JSON decoder (with slower but more reliable library)."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Transient and cacheid"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add echo_point function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add Plugin Tools page with plugin loading speed test."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Disabled Delete Cache button (will not work with transient)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Updated manual_cURL function"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small change to endpoints"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Set limit on number of repeated calls"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Illegal string offset fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small change to retrieve_from_cache."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Load files before APTFINbyTAP_widget_register()"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Small bug fixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Pretty Photo Update"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed Admin Tabs"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "End of development notice"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Move JS to separate file"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Change to FancyBox 2"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Add caption to display"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Rebuild jQuery display"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Check with Contact Form 7"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>I'm having trouble adding a user and I keep getting an error message. Can you help?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "There are a number of reasons that the plugin might be unable to retrieve your user information. The most common problems I have seen are due to the settings on the server that is hosting your WordPress website. To try and deal with these issues, I have created the <a href=\"http://thealpinepress.com/instagram-tool/\" title=\"Instagram Tool\">Instagram Tool</a> and hosted it on my website. The Instagram tools allows you to manually retrieve the information you need and to enter it into the plugin on the bottom of the Add Instagram User page."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>I'm getting the message \"Instagram feed was successfully retrieved, but no photos found\". What does that mean?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "This message simply means that while no distinguishable errors occurred, the plugin found your feed to be empty."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>Can I insert the plugin in posts or pages? Is there a shortcode function?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can display photos in posts or pages using what is called a shortcode. Rather than explaining how to setup the shortcode, I have added a tool to the Alpine PhotoTile plugin that generates the shortcode for you. Visit the \"Shortcode Generator\" on the plugin's settings page (<em>Settings-&gt;AlpineTile: Instagram-&gt;Shortcode Generator</em>)."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>Why doesn't the widget show my most recent photos?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "By default, the plugin caches or stores the feed for three hours (see Caching above). If the new photos have still not appeared after this time, it is possible that Instagram is responsible for the delay."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "<strong>How many photos can I display?</strong>"
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "The plugin can retrieve and display up to 100 photos."
+msgstr ""

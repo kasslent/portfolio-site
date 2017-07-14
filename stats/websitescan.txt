@@ -1,0 +1,49 @@
+/wp-includes/SimplePie/Decode/07cccabf_new.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/SimplePie/XML/5bed4b75_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/SimplePie/XML/Declaration/Parser_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/plugins/lists/plugin_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/plugins/c0a62f25_new.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/plugins/wpview/plugin.min_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min_indesit.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/skins/wordpress/wp-content_backup.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/tinymce/skins/lightgray/img/loader_prevv1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-includes/js/jquery/suggest_prevv1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-07.UNOFFICIAL)
+/wp-content/themes/twentyfourteen/image_infoold.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentyfourteen/css/editor-style_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentyfourteen/functions.php (known malicious file; matched malware: SiteLock-PHP-INJECTOR-1-et.UNOFFICIAL)
+/wp-content/themes/twentythirteen/images/dotted-line-light-2x_ver1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentythirteen/functions.php (known malicious file; matched malware: SiteLock-PHP-INJECTOR-1-et.UNOFFICIAL)
+/wp-content/themes/twentythirteen/inc/back-compat_ver1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/wpex-elegant/images/quote_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/wpex-elegant/images/prettyPhoto/facebook/default_thumbnail_indesit.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/wpex-elegant/functions.php (known malicious file; matched malware: SiteLock-PHP-INJECTOR-1-et.UNOFFICIAL)
+/wp-content/themes/wpex-elegant/templates/home_infoold.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentytwelve/inc/custom-header_prevv1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentytwelve/comments_prevv1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/themes/twentytwelve/functions.php (known malicious file; matched malware: SiteLock-PHP-INJECTOR-1-et.UNOFFICIAL)
+/wp-content/themes/twentyfifteen/functions.php (known malicious file; matched malware: SiteLock-PHP-INJECTOR-1-et.UNOFFICIAL)
+/wp-content/themes/twentyfifteen/js/skip-link-focus-fix_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-23.UNOFFICIAL)
+/wp-content/plugins/w3-total-cache/lib/W3/AdminActions/LicensingActionsAdmin_bck_old.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/colors/sunrise/colors-rtl_backup.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/colors/_admin_ver1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/colors/ectoplasm/colors-rtl.min_prevv1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/colors/ocean/colors-rtl.min_backup.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/colors/midnight/colors-rtl_indesit.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/css/list-tables-rtl_backup.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/options-writing_infoold.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/network/site-users_noversion.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/includes/admin_ver1.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+/wp-admin/maint/repair_new.php (known malicious file; matched malware: JCDEF.Obfus.CreateFunc.BackDoorEval-26.UNOFFICIAL)
+Scanned 5167 files.
+Found 36 malicious files.
+Found 0 potentially malicious files.
+PASSBACK:found_files=5168
+PASSBACK:files=5167
+PASSBACK:large_files=0
+PASSBACK:empty_files=0
+PASSBACK:bad_files=36
+PASSBACK:maybe_files=0
+PASSBACK:safe_files=63
+PASSBACK:not_files=1
+PASSBACK:md5_missing=0
+PASSBACK:runtime=1484
